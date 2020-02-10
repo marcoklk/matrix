@@ -1,2 +1,3 @@
-# matrix
-Projekt Matrix - transformacja
+# Projekt matrix - transformacja (5 dni)
+
+Dzień 1
